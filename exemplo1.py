@@ -1,10 +1,10 @@
 import cv2  # biblioteca para manipulação e reconhecimento de imagens
 
-# chama código de IA previamente treinado que reconhece faces
+# método classificador de faces
 
 classificador = cv2.CascadeClassifier('cascades\haarcascade_frontalface_default.xml')
 
-# imagem escolhida / tratamento para preto e branco
+# armazena imagem / tratamento para preto e branco
 
 imagem = cv2.imread('pessoas\\eu2.jpeg')
 imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY)

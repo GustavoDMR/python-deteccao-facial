@@ -13,5 +13,5 @@ e adicona-la a pasta "pessoas". Feito isso coloque o caminho da foto na variavel
 Ex: imagem = cv2.imread('pessoas\\*minha_foto*.jpg').
 
 ## Precisão do programa
-O algoritimo de IA para detecção facial fornecedi pelo curso visa apenas o estudo e a demonstração em pequenos testes. Por isso a precisão do programa pode nao ser a 
+O algoritimo de IA para detecção facial fornecedo pelo curso visa apenas o estudo e a demonstração em pequenos testes. Por isso a precisão do programa pode nao ser a 
 mais adequada.

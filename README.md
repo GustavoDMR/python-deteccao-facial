@@ -5,7 +5,8 @@
   Os exemplos acima demonstram o funcionamento de um algoritimo de inteligência artificial na classificação de faces, olhos e outros objetos. O código foi desenvolvido em linguagem Python na IDE PyCharm.
   Por ser um curso introdutório o arquivo .xml de de detecção ja vem previamente treinado.
 
-# Biblioteca
+## Biblioteca
+
   OpenCV é uma biblioteca de visão computacional para análise de imagens e vídeos.Essas análises incluem processos de detecção e reconhecimento facial. Ao longo do curso, os métodos da biblioteca foram usados para capturar, tratar e exibir imagens e vídeos.
   
 ## Fotos
